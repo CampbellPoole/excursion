@@ -1,16 +1,16 @@
+/* Added Verdana to the body as well. All text is Verdana, so why not? */
 body {
   font-family: verdana;
   background-color: black;
+  text-align: center;
 }
 .opening {
   font-weight: normal;
   font-size: 50px;
   color: white;
-  text-align: center;
 }
 
 .soon {
   font-size: 16px;
   color: aquamarine;
-  text-align: center;
 }
